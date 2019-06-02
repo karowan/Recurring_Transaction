@@ -1,0 +1,16 @@
+{
+  "name": "recurring_transaction",
+  "version": "1.0.0",
+  "description": "Sends transactions to your contract every 10 minutes.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^1.0.0-beta.55",
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {}
+}
