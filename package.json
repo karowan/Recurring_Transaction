@@ -12,5 +12,13 @@
     "web3": "^1.0.0-beta.55",
     "yargs": "^13.2.4"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karowan/Recurring_Transaction.git"
+  },
+  "bugs": {
+    "url": "https://github.com/karowan/Recurring_Transaction/issues"
+  },
+  "homepage": "https://github.com/karowan/Recurring_Transaction#readme"
 }
