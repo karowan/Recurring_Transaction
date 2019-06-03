@@ -24,7 +24,7 @@ Steps
     * Fund the contract with link and fund the new account with eth.
 
 2. Clone this github depository and run `npm install` inside the directory.
-3. After both steps 1 and 2 are completed run the following command, replacing your values where for each of the arguments: 
+3. After both steps 1 and 2 are completed, run the following command, replacing your values for each of the arguments: 
 
     ```npm run start -- --accountAddress="yourParityAddress" --password="yourPassword" --contractAddress="yourContractAddress" --oracleAddress="yourOracleAddress" --jobID="yourJobID" --providerURL="yourProviderAddress"```
 
