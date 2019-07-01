@@ -1,3 +1,6 @@
+**If you can avoid it, do not use this script. There is a much better solution to this problem if you look into the ethTx adapter that is built into every node by default. If you still want to use this script, the instructions must be followed exactly or there will likely be an error.** 
+
+
 Setup
 ==========
 **Use this at your own risk. Please use throwaway addresses when using this as I have done nothing to secure the data being transferred. This is purely meant to fulfill the recurring job requests and nothing more.**
