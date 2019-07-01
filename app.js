@@ -38,7 +38,6 @@ deploy = async function() {
         console.log("Sending Request.");
         mymethod.send()
     } catch (error) {
-        console.log(error);  
     }
     
     setTimeout(() => {
